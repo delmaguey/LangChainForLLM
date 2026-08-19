@@ -50,6 +50,7 @@ openai==1.109.1
 orjson==3.11.9
 ormsgpack==1.12.2
 packaging==26.3
+pandas==2.3.3
 parso==0.8.7
 pexpect==4.9.0
 platformdirs==4.11.2
@@ -64,6 +65,7 @@ pydantic_core==2.46.4
 Pygments==2.20.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
+pytz==2026.3.post1
 PyYAML==6.0.3
 pyzmq==27.1.0
 regex==2026.7.19
@@ -80,6 +82,7 @@ tqdm==4.70.0
 traitlets==5.16.1
 typing-inspection==0.4.4
 typing_extensions==4.16.0
+tzdata==2026.3
 urllib3==2.7.0
 uuid_utils==0.17.0
 wcwidth==0.8.2
